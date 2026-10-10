@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Intelligent Student Performance System
 
 A Streamlit web application that predicts student final marks using Linear Regression and a Neural Network, evaluates model performance, visualizes results, and suggests possible study-habit improvements.
@@ -47,3 +48,7 @@ Streamlit will provide a local URL, usually `http://localhost:8501`.
 ## Dataset note
 
 The application generates synthetic sample data in code; its predictions demonstrate a machine-learning workflow and are not guaranteed real-world academic outcomes.
+=======
+# Week6-AI-Intelligent-System
+An intelligent student performance prediction system using Machine Learning, Neural Networks, and Streamlit.
+>>>>>>> bfde80267a28f94dfcdc610cc1b7bc0c61e74c58
